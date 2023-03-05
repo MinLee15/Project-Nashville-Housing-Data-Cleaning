@@ -18,7 +18,7 @@ v) Removing duplicate records - Duplicate records can distort the analysis resul
 
 vi) Removing irrelevant data - Sometimes, a dataset might contain irrelevant data that is not necessary for the analysis. Identify and remove this data to streamline the analysis process
 
-
+To summarize, data cleaning is a crucial step in the data analysis process as it ensures that the data is accurate, complete, and consistent. By identifying and correcting errors in the data, data analysts can ensure that the insights gained from the data are reliable and useful. Data cleaning also helps to eliminate irrelevant data, making it easier to analyze and interpret the data effectively. Overall, data cleaning is an essential step in preparing data for analysis, and ignoring it can lead to inaccurate and unreliable results, hindering informed decision-making.
 
 
 
