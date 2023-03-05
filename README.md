@@ -6,8 +6,14 @@ Data cleaning is an essential process that involves identifying and correcting e
 
 The data cleaning process involves several steps, such as:
 i) Removing duplicate records - Duplicate records can distort the analysis results, so it's essential to remove them from the dataset.
+
 ii) Dealing with missing values - Missing values can occur due to various reasons such as system errors, data corruption, or human errors. 
+
 iii) Standardizing data - Data inconsistencies due to variations in spelling, capitalization, or abbreviations. Standardize the data to make it consistent and clear
+
+
+
+
 
 Handling outliers: Outliers are data points that deviate significantly from other data points in the dataset. Outliers can affect the statistical analysis and lead to misleading conclusions. The data analyst needs to determine how to handle outliers appropriately.
 
