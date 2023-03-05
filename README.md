@@ -4,16 +4,20 @@ Project - Nashville Housing Data Cleaning using SQL
 
 Data cleaning is an essential process that involves identifying and correcting errors, inconsistencies, and inaccuracies in a dataset. It is a crucial step in the data analysis process as it helps to ensure that the insights and conclusions drawn from the data are accurate and reliable. Our project aims to achieve this by performing data cleaning on a set of housing details in Nashville using Microsoft SQL. The housing dataset in Nashville was obtained from Kaggle and contains information about various properties, including their location, size, price and etc. 
 
+The data cleaning process involves several steps, such as:
+i) Removing duplicate records - Duplicate records can distort the analysis results, so it's essential to remove them from the dataset.
+ii) Dealing with missing values - Missing values can occur due to various reasons such as system errors, data corruption, or human errors. 
+iii) Standardizing data - Data inconsistencies due to variations in spelling, capitalization, or abbreviations. Standardize the data to make it consistent and clear
 
-Our project will involve using Microsoft SQL to clean the data by identifying and correcting any errors or inconsistencies in the dataset. We will also remove any duplicate or irrelevant data to ensure that the dataset is as accurate and relevant as possible.
+Handling outliers: Outliers are data points that deviate significantly from other data points in the dataset. Outliers can affect the statistical analysis and lead to misleading conclusions. The data analyst needs to determine how to handle outliers appropriately.
+
+Checking data for accuracy and consistency: Data can have errors that can occur due to various reasons, such as data entry errors, system errors, or incomplete data. The data analyst needs to check the data for accuracy and consistency to ensure that it is reliable.
 
 
 
 
+We will involve using Microsoft SQL to clean the data by identifying and correcting any errors or inconsistencies in the dataset. We will also remove any duplicate or irrelevant data to ensure that the dataset is as accurate and relevant as possible.
 
-
-
-This project focuses on using Microsoft SQL to perform data cleaning on a housing dataset in Nashville. 
 
 
 
